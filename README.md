@@ -1,6 +1,6 @@
 # 🖼 Dice App
 
-**Full programmatically fice app**
+**Full programmatically dice app**
 
 ## 👤 Author
 
